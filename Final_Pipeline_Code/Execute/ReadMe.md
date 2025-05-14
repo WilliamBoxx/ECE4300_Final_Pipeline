@@ -50,3 +50,5 @@ On each clock cycle, the ALU computes the result using the given inputs. The bra
 - **Branch Misalignment:** Corrected branch address calculation in the adder.
 - **MUX Selection Errors:** Validated input selection between register and immediate values.
 
+![Execute_Binary_Timing_Diagram](https://github.com/WilliamBoxx/ECE4300_Final_Pipeline/blob/main/Final_Pipeline_Code/Execute/Execute_Binary_Timing_Diagram.png)
+![Execute_Hex_Timing_Diagram](https://github.com/WilliamBoxx/ECE4300_Final_Pipeline/blob/main/Final_Pipeline_Code/Execute/Execute_Hex_Timing_Diagram.png)
