@@ -1,5 +1,5 @@
 
-# Decode (ID) Stage
+# 2-Decode (ID) Stage
 
 ## Overview
 The Decode stage (ID) is the second stage of the MIPS pipeline. Its main purpose is to decode the fetched instruction, read the required register values, and generate the necessary control signals.
