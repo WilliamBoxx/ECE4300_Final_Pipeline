@@ -1,5 +1,5 @@
 
-# Execute (EX) Stage
+# 3-Execute (EX) Stage
 
 ## Overview
 The Execute stage (EX) is the third stage of the MIPS pipeline. It performs arithmetic, logical, and branch operations based on the control signals from the decode stage.
