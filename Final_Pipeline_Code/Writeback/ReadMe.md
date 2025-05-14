@@ -1,5 +1,5 @@
 
-# Writeback (WB) Stage
+# 5-Writeback (WB) Stage
 
 ## Overview
 The Writeback stage (WB) is the final stage of the MIPS pipeline. Its primary role is to write the results from the previous stages into the register file.
