@@ -1,5 +1,5 @@
 
-# Fetch (IF) Stage
+# 1-Fetch (IF) Stage
 
 ## Overview
 The Fetch stage (IF) is the first stage in the MIPS pipeline. Its primary function is to fetch the next instruction from memory and update the program counter (PC) to point to the next instruction. 
