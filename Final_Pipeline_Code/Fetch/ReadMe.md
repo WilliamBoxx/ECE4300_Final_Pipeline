@@ -46,3 +46,5 @@ When the `clk` signal rises, the PC is updated, and the next instruction is fetc
 ## Common Issues and Fixes
 - **Instruction Fetch Failure:** Ensured the `risc.txt` file is correctly loaded.
 - **Branch Address Mismatch:** Verified the PC update logic during branch conditions.
+
+![Fetch_Timing_Diagram](https://github.com/WilliamBoxx/ECE4300_Final_Pipeline/blob/main/Final_Pipeline_Code/Fetch/Fetch_Timing_Diagram.png)
