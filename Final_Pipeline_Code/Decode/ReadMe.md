@@ -47,3 +47,4 @@ Upon receiving an instruction, the control unit decodes the opcode and generates
 - **Control Signal Mismatch:** Adjusted opcode decoding logic.
 - **Register Read Errors:** Fixed address bit-width mismatches in the register file.
 
+![Decode_Timing_Diagram](https://github.com/WilliamBoxx/ECE4300_Final_Pipeline/blob/main/Final_Pipeline_Code/Decode/Decode_Timing_Diagram.png)
