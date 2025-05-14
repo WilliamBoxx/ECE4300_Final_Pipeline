@@ -46,4 +46,4 @@ If the instruction requires memory access (like `LW` or `SW`), the module reads 
 - **Branch Misprediction:** Adjusted branch decision logic.
 - **Data Corruption:** Fixed address calculation and byte alignment issues.
 
-![Memory_Timing_Diagram](https://github.com/WilliamBoxx/ECE4300_Final_Pipeline/edit/main/Final_Pipeline_Code/Memory/Memory_Timing_Diagram.png)
+![Memory_Timing_Diagram](https://github.com/WilliamBoxx/ECE4300_Final_Pipeline/blob/main/Final_Pipeline_Code/Memory/Memory_Timing_Diagram.png)
