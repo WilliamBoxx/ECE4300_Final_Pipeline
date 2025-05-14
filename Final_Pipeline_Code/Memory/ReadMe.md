@@ -1,5 +1,5 @@
 
-# Memory (MEM) Stage
+# 4-Memory (MEM) Stage
 
 ## Overview
 The Memory stage (MEM) is the fourth stage of the MIPS pipeline. It handles data memory access operations, such as loading from or storing to memory.
