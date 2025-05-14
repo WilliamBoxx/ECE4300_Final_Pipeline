@@ -86,3 +86,5 @@ The `complete_pipeline` module integrates the five stages into a single cohesive
 The successful implementation of the MIPS pipeline showcases the importance of handling data and control hazards efficiently. By optimizing the pipeline structure and improving hazard management, the performance of the MIPS processor can be significantly enhanced. The complete pipeline module effectively integrates all stages and efficiently manages data flow, ensuring smooth instruction processing.
 
 Further improvements can be made by enhancing hazard detection mechanisms, optimizing data forwarding, and implementing more advanced techniques like dynamic scheduling and branch prediction. These optimizations would make the pipeline more resilient to data dependencies and control flow changes, increasing overall performance.
+
+![Final_Pipeline_TCL_Console](https://github.com/WilliamBoxx/ECE4300_Final_Pipeline/blob/main/Final_Pipeline_Code/Final_Pipeline_TCL_Console.PNG)
